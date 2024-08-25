@@ -12,7 +12,6 @@ With over 13 years of experience in the programming field, I bring a wealth of k
 Here are some of the innovative applications and systems I've developed:
 
 - **[Techstars University](https://techstars.university/):** AI task delegate, Schedule handle, Chatbot AI, Whatsapp & Slack integrations.
-- **[Cerbrec](https://cerbrec.com/):** A web company profile built with Next.js.
 - **[NGHBR App](https://nghbr.app/):** A mobile application featuring advanced mapping and real-time communication, powered by Firebase and FCM.
 - **[Fanalyst App](https://fanalyst.app/):** A comprehensive mobile app and CMS solution with API development using Loopback 4 and Vue.js.
 - **[Vyrtual Assistant Talents](https://talent.vyrtual.ai/):** A web platform connecting talents with opportunities, developed with Next.js and React.
