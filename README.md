@@ -3,7 +3,7 @@
 With over 13 years of experience in the programming field, I bring a wealth of knowledge, dedication, and discipline to every project I undertake. My journey in tech has seen me evolve from a junior programmer to a professional full stack engineer, adept at both independent and team-based projects.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** PHP, JavaScript, Golang, Dart
+- **Languages:** PHP, JavaScript, Golang, Dart, TypeScript
 - **Frameworks & Libraries:** CakePHP, Laravel, Node.js, Vue.js, Next.js, Flutter
 - **Databases:** MySQL, PostgreSQL, Firestore, Redis, MongoDB
 - **Other Tools:** Firebase, FCM, Payment Gateway Integration, SASS, React, React Native, Loopback 4
