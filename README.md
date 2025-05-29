@@ -4,8 +4,8 @@ With over 13 years of experience in the programming field, I bring a wealth of k
 
 ## 🛠️ Technologies & Tools
 - **Languages:** PHP, JavaScript, Golang, Dart, TypeScript, Python
-- **Frameworks & Libraries:** CakePHP, Laravel, Node.js, Vue.js, Next.js, Flutter
-- **Databases:** MySQL, PostgreSQL, Firestore, Redis, MongoDB
+- **Frameworks & Libraries:** CakePHP, Laravel, Node.js, Vue.js, Next.js, Flutter, React Native, React Expo
+- **Databases:** MySQL, PostgreSQL, Firestore, Redis, MongoDB, Realtime Database
 - **Other Tools:** Firebase, FCM, Payment Gateway Integration, SASS, React, React Native, Loopback 4
 
 ## 🚀 Projects & Portfolio
